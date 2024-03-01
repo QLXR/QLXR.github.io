@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-25-2024-02-25-WvW-Log-Review.md",
+                "file": "template/{{date}}-{{date}}-WvW-Log-Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "625b11ff9dda5738",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/{{date}}-{{date}}-WvW-Log-Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf2fd1cb114e3d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-24-2024-02-24-WvW-Log-Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-02-25-2024-02-25-WvW-Log-Review.md",
+                "file": "2024-02-24-2024-02-24-WvW-Log-Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-02-25-2024-02-25-WvW-Log-Review.md",
+                "file": "2024-02-24-2024-02-24-WvW-Log-Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-02-25-2024-02-25-WvW-Log-Review.md"
+                "file": "2024-02-24-2024-02-24-WvW-Log-Review.md"
               }
             }
           }
@@ -146,9 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "613fca0adfac046d",
+  "active": "bf2fd1cb114e3d4e",
   "lastOpenFiles": [
+    "2024-02-25-2024-02-25-WvW-Log-Review.md",
+    "2024-02-24-2024-02-24-WvW-Log-Review.md",
+    "template/{{date}}-{{date}}-WvW-Log-Review.md",
     "2024-02-29-2024-02-29-WvW-Log-Review.md",
-    "2024-02-25-2024-02-25-WvW-Log-Review.md"
+    "2024-02-26-2024-02-26-WvW-Log-Review.md",
+    "template"
   ]
 }
