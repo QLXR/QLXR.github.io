@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f39d7b2b0ec02211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-01-20240301-220403_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-01-2024-03-01-WvW-Log-Review.md",
+                "file": "2024-03-01-20240301-220403_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-01-2024-03-01-WvW-Log-Review.md",
+                "file": "2024-03-01-20240301-220403_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-01-2024-03-01-WvW-Log-Review.md"
+                "file": "2024-03-01-20240301-220403_wvw.md"
               }
             }
           }
@@ -159,10 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af9ccf2877ae6c5b",
+  "active": "5dd6100620b6a5ea",
   "lastOpenFiles": [
-    "2024-02-24-2024-02-24-WvW-Log-Review.md",
+    "2024-03-01-20240301-220403_detailed_wvw_730s_kill.md",
+    "2024-03-01-20240301-220403_wvw.md",
     "2024-03-01-2024-03-01-WvW-Log-Review.md",
+    "2024-02-24-2024-02-24-WvW-Log-Review.md",
     "template/{{date}}-{{date}}-WvW-Log-Review.md",
     "2024-02-25-2024-02-25-WvW-Log-Review.md",
     "2024-02-29-2024-02-29-WvW-Log-Review.md",
