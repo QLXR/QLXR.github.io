@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "template/{{date}}-20240301-220403_wvw.md",
+                "file": "2024-03-01-20240301-220403_wvw.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/{{date}}-20240301-220403_wvw.md",
+                "file": "2024-03-01-20240301-220403_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/{{date}}-20240301-220403_wvw.md",
+                "file": "2024-03-01-20240301-220403_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "template/{{date}}-20240301-220403_wvw.md"
+                "file": "2024-03-01-20240301-220403_wvw.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "253b7a16c91444f2",
   "lastOpenFiles": [
+    "template/{{date}}-20240301-220403_wvw.md",
     "2024-03-01-20240301-220403_wvw.md",
     "2024-03-01-2024-03-01-WvW-Log-Review.md",
     "2024-02-29-2024-02-29-WvW-Log-Review.md",
     "2024-02-26-2024-02-26-WvW-Log-Review.md",
-    "template/{{date}}-20240301-220403_wvw.md",
     "template/{{date}}-{{date}}-WvW-Log-Review.md",
     "2024-02-24-2024-02-24-WvW-Log-Review.md",
     "2024-03-01-20240301-220403_detailed_wvw_730s_kill.md",
