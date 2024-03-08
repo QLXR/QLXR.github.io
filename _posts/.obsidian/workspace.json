@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b0a496ac210d09e",
+        "id": "67f4ce54440c3358",
         "type": "tabs",
         "children": [
           {
-            "id": "68dddde592072a3f",
+            "id": "d9b4b6f48d8e7213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-06-2024-03-06-WvW-Log-Review.md",
+                "file": "2024-03-07-2024-03-07-WvW-Log-Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 362.5
   },
   "right": {
     "id": "f2c79397e1afe204",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-06-2024-03-06-WvW-Log-Review.md",
+                "file": "2024-03-07-2024-03-07-WvW-Log-Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-06-2024-03-06-WvW-Log-Review.md",
+                "file": "2024-03-07-2024-03-07-WvW-Log-Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-06-2024-03-06-WvW-Log-Review.md"
+                "file": "2024-03-07-2024-03-07-WvW-Log-Review.md"
               }
             }
           }
@@ -147,22 +147,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68dddde592072a3f",
+  "active": "d9b4b6f48d8e7213",
   "lastOpenFiles": [
-    "2024-02-25-2024-02-25-WvW-Log-Review.md",
+    "2024-03-07-2024-03-07-WvW-Log-Review.md",
+    "2024-03-03-20240303-220239_wvw.md",
+    "template/{{date}}-{{date}}-WvW-Log-Review.md",
+    "template/copy filename here(Single fight log).md",
     "2024-03-06-2024-03-06-WvW-Log-Review.md",
-    "2024-02-29-2024-02-29-WvW-Log-Review.md",
-    "2024-03-05-2024-03-05-WvW-Log-Review.md",
-    "2024-03-01-20240301-220403_wvw.md",
     "2024-03-01-2024-03-01-WvW-Log-Review.md",
+    "2024-03-02-2024-03-02-WvW-Log-Review.md",
+    "2024-03-03-2024-03-03-WvW-Log-Review.md",
+    "2024-03-07-20240303-220239_wvw.md",
+    "20240303-220239_wvw.md",
+    "111.md",
+    "20240303-220239_wvw2.md",
+    "pnuc-20240303-220239_wvw.md",
+    "20240303-220239_wvw1.md",
+    " something.md",
+    "loglink.md",
+    "222, 333.md",
+    "2024-03-04-2024-03-04-WvW-Log-Review.md",
+    "2024-03-05-2024-03-05-WvW-Log-Review.md",
+    "2024-02-25-2024-02-25-WvW-Log-Review.md",
+    "2024-02-29-2024-02-29-WvW-Log-Review.md",
+    "2024-03-01-20240301-220403_wvw.md",
     "2024-02-24-2024-02-24-WvW-Log-Review.md",
     "2024-02-26-2024-02-26-WvW-Log-Review.md",
-    "template/copy filename here(Single fight log).md",
-    "2024-03-03-2024-03-03-WvW-Log-Review.md",
-    "2024-03-03-20240303-220239_wvw.md",
-    "2024-03-04-2024-03-04-WvW-Log-Review.md",
-    "template/{{date}}-{{date}}-WvW-Log-Review.md",
-    "2024-03-02-2024-03-02-WvW-Log-Review.md",
     "2024-03-02-20240302-212332_wvw.md",
     "2024-03-01-20240301-220403_detailed_wvw_730s_kill.md",
     "template"
