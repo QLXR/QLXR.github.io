@@ -33,10 +33,66 @@
       "name": "Add new Singal Log",
       "type": "Template",
       "command": true,
-      "templatePath": "template/copy filename here(Single fight log).md",
+      "templatePath": "template/{{date}}-Single fight log.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{date}}-{{value:filename}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "46304257-1b4d-4bf6-bc28-908d557ea3d5",
+      "name": "Add new notes pin or no pin",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/{{date}}-new notes pin or no pin.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}}-{{value:post_title}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f8b7e097-b0c5-4420-b194-3a273f60d182",
+      "name": "Add new videos",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/{{date}}-new video post.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date}}-{{value:post_title}}"
       },
       "folder": {
         "enabled": false,

@@ -1,6 +1,6 @@
 ---
 title: Detail Explain of ARC DPS Kills Count vs Anet achievement count
-date: 2024-03-9 10:42 -0500
+date: 2024-03-9 10:42 America/Detroit
 categories:
   - Notes
 tags: 
