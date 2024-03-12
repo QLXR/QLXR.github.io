@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c9091e0c1901aaa",
+            "id": "d70e334a6ca414ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-11-2024-03-11-WvW-Log-Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6422276c5b83981",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-11-20240311-210611_wvw.md",
+                "file": "2024-03-12-Top DPS Sheep war.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-11-20240311-210611_wvw.md",
+                "file": "2024-03-12-Top DPS Sheep war.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-11-20240311-210611_wvw.md",
+                "file": "2024-03-12-Top DPS Sheep war.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-11-20240311-210611_wvw.md"
+                "file": "2024-03-12-Top DPS Sheep war.md"
               }
             }
           }
@@ -160,13 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6422276c5b83981",
+  "active": "d70e334a6ca414ce",
   "lastOpenFiles": [
-    "2024-03-11-2024-03-11-WvW-Log-Review.md",
-    "2024-03-11-20240311-210611_wvw.md",
+    "template/{{date}}-new video post.md",
+    "2024-03-12-Top DPS Sheep war.md",
+    "2024-03-12-Top dps Sheep war video.md",
     "2024-03-11-WvW Shenanigans Myst Feb 2024 from Mystique.md",
     "2024-03-11-20240310-215048_wvw.md",
-    "template/{{date}}-new video post.md",
+    "2024-03-11-20240311-210611_wvw.md",
+    "2024-03-11-2024-03-11-WvW-Log-Review.md",
     "template/{{date}}-new notes pin or no pin.md",
     "template/{{date}}-{{date}}-WvW-Log-Review.md",
     "template/{{date}}-Single fight log.md",
@@ -186,8 +175,6 @@
     "2024-03-03-2024-03-03-WvW-Log-Review.md",
     "2024-03-07-20240303-220239_wvw.md",
     "20240303-220239_wvw.md",
-    "111.md",
-    "20240303-220239_wvw2.md",
     "template"
   ]
 }
