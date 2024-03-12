@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6422276c5b83981",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-11-20240311-210611_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-11-2024-03-11-WvW-Log-Review.md",
+                "file": "2024-03-11-20240311-210611_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-11-2024-03-11-WvW-Log-Review.md",
+                "file": "2024-03-11-20240311-210611_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-11-2024-03-11-WvW-Log-Review.md"
+                "file": "2024-03-11-20240311-210611_wvw.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c9091e0c1901aaa",
+  "active": "d6422276c5b83981",
   "lastOpenFiles": [
-    "2024-03-11-WvW Shenanigans Myst Feb 2024 from Mystique.md",
     "2024-03-11-2024-03-11-WvW-Log-Review.md",
+    "2024-03-11-20240311-210611_wvw.md",
+    "2024-03-11-WvW Shenanigans Myst Feb 2024 from Mystique.md",
     "2024-03-11-20240310-215048_wvw.md",
     "template/{{date}}-new video post.md",
     "template/{{date}}-new notes pin or no pin.md",
@@ -174,7 +188,6 @@
     "20240303-220239_wvw.md",
     "111.md",
     "20240303-220239_wvw2.md",
-    "pnuc-20240303-220239_wvw.md",
     "template"
   ]
 }
