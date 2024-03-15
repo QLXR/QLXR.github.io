@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0e71870428e0125",
+            "id": "a3c3edd05ac0fe6d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
+                "file": "2024-03-14-20240314-195621_wvw.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
+                "file": "2024-03-14-20240314-195621_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
+                "file": "2024-03-14-20240314-195621_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-14-2024-03-14-WvW-Log-Review-trip.md"
+                "file": "2024-03-14-20240314-195621_wvw.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0e71870428e0125",
+  "active": "a3c3edd05ac0fe6d",
   "lastOpenFiles": [
-    "2024-03-14-2024-03-14-WvW-Log-Review-TM.md",
-    "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
-    "2024-03-13-2024-03-13-WvW-Log-Review.md",
     "2024-03-12-20240312-212917_wvw.md",
+    "2024-03-13-2024-03-13-WvW-Log-Review.md",
+    "2024-03-14-20240314-195621_wvw.md",
+    "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
+    "2024-03-14-2024-03-14-WvW-Log-Review-TM.md",
     "2024-03-12-2024-03-12-WvW-Log-Review.md",
     "2024-03-12-Top DPS Sheep war.md",
     "template/{{date}}-new video post.md",
@@ -174,7 +175,6 @@
     "2024-03-07-20240307-203505_wvw.md",
     "2024-03-07-2024-03-07-WvW-Log-Review.md",
     "2024-03-03-20240303-220239_wvw.md",
-    "2024-03-06-2024-03-06-WvW-Log-Review.md",
     "template"
   ]
 }
