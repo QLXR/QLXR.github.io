@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18cb916d21b3ce74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-17-2024-03-17-WvW-Log-Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7100feb1f85cf8d5",
             "type": "leaf",
             "state": {
@@ -30,9 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca62ed4a15220e7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-18-2024-03-18-WvW-Log-Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9195e409b82a8442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-18-20240318-212114_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-17-20240317-212727_wvw.md",
+                "file": "2024-03-18-20240318-212114_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-17-20240317-212727_wvw.md",
+                "file": "2024-03-18-20240318-212114_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-17-20240317-212727_wvw.md"
+                "file": "2024-03-18-20240318-212114_wvw.md"
               }
             }
           }
@@ -160,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7100feb1f85cf8d5",
+  "active": "9195e409b82a8442",
   "lastOpenFiles": [
-    "2024-03-17-2024-03-17-WvW-Log-Review.md",
+    "2024-03-18-2024-03-18-WvW-Log-Review.md",
+    "2024-03-18-20240318-212114_wvw.md",
     "2024-03-17-20240317-212727_wvw.md",
+    "2024-03-17-2024-03-17-WvW-Log-Review.md",
     "2024-03-16-20240316-221006_wvw.md",
     "2024-03-16-2024-03-16-WvW-Log-Review_1.md",
     "2024-03-16-2024-03-16-WvW-Log-Review.md",
@@ -186,8 +200,6 @@
     "template/{{date}}-Single fight log.md",
     "2024-03-11-20240310-215048_wvw1.md",
     "2024-03-09-Detail Explain of ARC DPS Kills Count vs Anet achievement count.md",
-    "2024-03-10-2024-03-10-WvW-Log-Review.md",
-    "2024-03-09-2024-03-09-WvW-Log-Review_less_kill_version.md",
     "template"
   ]
 }
