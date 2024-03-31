@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7100feb1f85cf8d5",
+            "id": "bbafe01b25158d9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-17-20240317-212727_wvw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca62ed4a15220e7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-18-2024-03-18-WvW-Log-Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9195e409b82a8442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-18-20240318-212114_wvw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b73e0acf85555d99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-19-2024-03-19-WvW-Log-Review.md",
+                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-19-2024-03-19-WvW-Log-Review.md",
+                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-19-2024-03-19-WvW-Log-Review.md",
+                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-19-2024-03-19-WvW-Log-Review.md"
+                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md"
               }
             }
           }
@@ -184,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b73e0acf85555d99",
+  "active": "bbafe01b25158d9b",
   "lastOpenFiles": [
-    "2024-03-18-20240318-212114_wvw.md",
     "2024-03-19-2024-03-19-WvW-Log-Review.md",
+    "2024-03-30-2024-03-30-WvW-Log-Review.md",
+    "2024-03-18-20240318-212114_wvw.md",
     "2024-03-18-2024-03-18-WvW-Log-Review.md",
     "2024-03-17-20240317-212727_wvw.md",
     "2024-03-17-2024-03-17-WvW-Log-Review.md",
@@ -211,7 +175,6 @@
     "template/{{date}}-new notes pin or no pin.md",
     "template/{{date}}-{{date}}-WvW-Log-Review.md",
     "template/{{date}}-Single fight log.md",
-    "2024-03-11-20240310-215048_wvw1.md",
     "template"
   ]
 }
