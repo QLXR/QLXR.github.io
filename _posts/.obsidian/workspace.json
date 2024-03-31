@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "292cdda03b1842a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-31-20240330-210250_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5c86747caa5db1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-03-31-20240330-204445_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -86,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md",
+                "file": "2024-03-31-20240330-204445_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md",
+                "file": "2024-03-31-20240330-204445_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-30-2024-03-30-WvW-Log-Review.md"
+                "file": "2024-03-31-20240330-204445_wvw.md"
               }
             }
           }
@@ -147,10 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbafe01b25158d9b",
+  "active": "d5c86747caa5db1b",
   "lastOpenFiles": [
-    "2024-03-19-2024-03-19-WvW-Log-Review.md",
+    "2024-03-31-20240330-210250_wvw.md",
+    "2024-03-31-20240330-204445_wvw.md",
     "2024-03-30-2024-03-30-WvW-Log-Review.md",
+    "2024-03-19-2024-03-19-WvW-Log-Review.md",
     "2024-03-18-20240318-212114_wvw.md",
     "2024-03-18-2024-03-18-WvW-Log-Review.md",
     "2024-03-17-20240317-212727_wvw.md",
@@ -173,8 +200,6 @@
     "2024-03-11-20240311-210611_wvw.md",
     "2024-03-11-2024-03-11-WvW-Log-Review.md",
     "template/{{date}}-new notes pin or no pin.md",
-    "template/{{date}}-{{date}}-WvW-Log-Review.md",
-    "template/{{date}}-Single fight log.md",
     "template"
   ]
 }
