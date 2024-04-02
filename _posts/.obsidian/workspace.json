@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95c7b2a54ab9a20e",
+            "id": "0159540d91b989ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-31-20240331-211819_wvw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b1c304dd00e8ce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-03-31-20240331-204801_wvw.md",
+                "file": "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-03-31-20240331-204801_wvw.md",
+                "file": "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-03-31-20240331-204801_wvw.md",
+                "file": "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-03-31-20240331-204801_wvw.md"
+                "file": "2024-04-01-2024-04-01-WvW-Log-Review TM.md"
               }
             }
           }
@@ -160,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b1c304dd00e8ce1",
+  "active": "0159540d91b989ed",
   "lastOpenFiles": [
-    "2024-03-31-20240331-211819_wvw.md",
+    "2024-04-01-2024-04-01-WvW-Log-Review.md",
+    "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
+    "2024-04-01-20240401-203316_wvw.md",
+    "2024-04-01-20240401-214411_wvw.md",
     "2024-03-31-20240331-204801_wvw.md",
+    "2024-03-31-20240331-211819_wvw.md",
     "2024-03-31-2024-03-31-WvW-Log-Review.md",
     "2024-03-31-20240330-204445_wvw.md",
     "2024-03-31-20240330-210250_wvw.md",
@@ -184,10 +175,6 @@
     "2024-03-14-2024-03-14-WvW-Log-Review-TM.md",
     "2024-03-12-2024-03-12-WvW-Log-Review.md",
     "2024-03-12-Top DPS Sheep war.md",
-    "template/{{date}}-new video post.md",
-    "2024-03-12-Top dps Sheep war video.md",
-    "2024-03-11-WvW Shenanigans Myst Feb 2024 from Mystique.md",
-    "2024-03-11-20240310-215048_wvw.md",
     "template"
   ]
 }
