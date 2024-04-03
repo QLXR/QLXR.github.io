@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0159540d91b989ed",
+            "id": "6c5d3258c3871f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
+                "file": "2024-04-02-20240402-193834_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d41d0c4108414b5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-02-20240402-210157_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca801414b035391a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-02-20240402-212305_wvw.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
+                "file": "2024-04-02-20240402-193834_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
+                "file": "2024-04-02-20240402-193834_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-01-20240401-214411_wvw Alac Heal Mech.md"
+                "file": "2024-04-02-20240402-193834_wvw.md"
               }
             }
           }
@@ -147,12 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0159540d91b989ed",
+  "active": "6c5d3258c3871f53",
   "lastOpenFiles": [
+    "2024-04-02-20240402-210157_wvw.md",
+    "2024-04-02-20240402-212305_wvw.md",
+    "2024-04-02-20240402-193834_wvw.md",
+    "2024-04-02-2024-04-02-WvW-Log-Review TM.md",
+    "2024-04-02-2024-04-02-WvW-Log-Review.md",
+    "2024-04-01-20240401-195056_wvw.md",
+    "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
     "2024-04-01-20240401-203316_wvw.md",
     "2024-04-01-2024-04-01-WvW-Log-Review.md",
     "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
-    "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
     "2024-03-31-20240331-204801_wvw.md",
     "2024-03-31-20240331-211819_wvw.md",
     "2024-03-31-2024-03-31-WvW-Log-Review.md",
@@ -169,12 +199,6 @@
     "2024-03-16-2024-03-16-WvW-Log-Review.md",
     "2024-03-16-20240315-224312_wvw TM.md",
     "2024-03-14-20240314-195621_wvw.md",
-    "2024-03-14-2024-03-14-WvW-Log-Review-trip.md",
-    "2024-03-12-20240312-212917_wvw.md",
-    "2024-03-13-2024-03-13-WvW-Log-Review.md",
-    "2024-03-14-2024-03-14-WvW-Log-Review-TM.md",
-    "2024-03-12-2024-03-12-WvW-Log-Review.md",
-    "2024-03-12-Top DPS Sheep war.md",
     "template"
   ]
 }
