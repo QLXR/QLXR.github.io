@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6c5d3258c3871f53",
+            "id": "36a91bff257d8b23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-02-20240402-193834_wvw.md",
+                "file": "2024-04-06-2024-04-06-WvW-Log-Review with TM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37cf85217d40f0f6",
+            "id": "a89061000fa8da65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-03-2024-04-03-WvW-Log-Review.md",
+                "file": "2024-04-06-20240406-001548_wvw.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-03-2024-04-03-WvW-Log-Review.md",
+                "file": "2024-04-06-20240406-001548_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-03-2024-04-03-WvW-Log-Review.md",
+                "file": "2024-04-06-20240406-001548_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-03-2024-04-03-WvW-Log-Review.md"
+                "file": "2024-04-06-20240406-001548_wvw.md"
               }
             }
           }
@@ -160,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37cf85217d40f0f6",
+  "active": "a89061000fa8da65",
   "lastOpenFiles": [
-    "2024-04-02-20240402-193834_wvw.md",
+    "2024-04-06-2024-04-06-WvW-Log-Review with TM.md",
+    "2024-04-06-20240406-001548_wvw.md",
     "2024-04-03-2024-04-03-WvW-Log-Review.md",
+    "2024-04-02-20240402-193834_wvw.md",
     "2024-04-02-20240402-212305_wvw.md",
     "2024-04-02-20240402-210157_wvw.md",
     "2024-04-02-2024-04-02-WvW-Log-Review TM.md",
@@ -186,8 +188,6 @@
     "2024-03-17-2024-03-17-WvW-Log-Review.md",
     "2024-03-16-20240316-221006_wvw.md",
     "2024-03-16-2024-03-16-WvW-Log-Review_1.md",
-    "2024-03-16-2024-03-16-WvW-Log-Review.md",
-    "2024-03-16-20240315-224312_wvw TM.md",
     "template"
   ]
 }
