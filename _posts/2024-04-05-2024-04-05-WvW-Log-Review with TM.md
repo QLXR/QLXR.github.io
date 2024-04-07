@@ -1,5 +1,5 @@
 ---
-filename: 2024-04-06-2024-04-05-WvW-Log-Review
+filename: 2024-04-05-2024-04-05-WvW-Log-Review
 title: 2024-04-05-WvW-Log-Review with TM
 date: 2024-04-05 13:21 America/Detroit
 categories:
