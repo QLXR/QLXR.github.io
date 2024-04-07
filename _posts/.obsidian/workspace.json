@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36a91bff257d8b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85e3cb3aab761c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a89061000fa8da65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-06-20240406-001548_wvw.md",
+                "file": "2024-04-07-20240406-223142_wvw Blis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb3dcc06f53f6f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-07-20240406-225435_wvw Blis.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
+                "file": "2024-04-07-20240406-225435_wvw Blis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
+                "file": "2024-04-07-20240406-225435_wvw Blis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-05-2024-04-05-WvW-Log-Review with TM.md"
+                "file": "2024-04-07-20240406-225435_wvw Blis.md"
               }
             }
           }
@@ -172,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d85e3cb3aab761c0",
+  "active": "bb3dcc06f53f6f8d",
   "lastOpenFiles": [
-    "2024-04-06-20240406-001548_wvw.md",
+    "2024-04-07-20240406-223142_wvw Blis.md",
+    "2024-04-07-20240406-225435_wvw Blis.md",
+    "2024-04-06-2024-04-06-WvW-Log-Review Blis.md",
     "2024-04-06-2024-04-06-WvW-Log-Review.md",
+    "2024-04-06-20240406-001548_wvw.md",
     "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
     "2024-04-03-2024-04-03-WvW-Log-Review.md",
     "2024-04-02-20240402-193834_wvw.md",
@@ -197,9 +188,6 @@
     "2024-03-19-2024-03-19-WvW-Log-Review.md",
     "2024-03-18-20240318-212114_wvw.md",
     "2024-03-18-2024-03-18-WvW-Log-Review.md",
-    "2024-03-17-20240317-212727_wvw.md",
-    "2024-03-17-2024-03-17-WvW-Log-Review.md",
-    "2024-03-16-20240316-221006_wvw.md",
     "template"
   ]
 }
