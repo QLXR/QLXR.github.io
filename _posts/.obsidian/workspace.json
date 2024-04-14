@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "32f071556267c985",
+            "id": "2dc8c0695cf50062",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-11-2024-04-11-WvW-Log-Review TM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caaa28f61134a271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-11-20240411-200828_wvw.md",
+                "file": "2024-04-13-2024-04-13-WvW-Log-Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-11-20240411-200828_wvw.md",
+                "file": "2024-04-13-2024-04-13-WvW-Log-Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-11-20240411-200828_wvw.md",
+                "file": "2024-04-13-2024-04-13-WvW-Log-Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-11-20240411-200828_wvw.md"
+                "file": "2024-04-13-2024-04-13-WvW-Log-Review.md"
               }
             }
           }
@@ -160,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "caaa28f61134a271",
+  "active": "2dc8c0695cf50062",
   "lastOpenFiles": [
-    "2024-04-11-2024-04-11-WvW-Log-Review TM.md",
     "2024-04-11-20240411-200828_wvw.md",
+    "2024-04-13-2024-04-13-WvW-Log-Review.md",
+    "2024-04-11-2024-04-11-WvW-Log-Review TM.md",
     "2024-04-07-2024-04-07-WvW-Log-Review.md",
     "2024-04-06-2024-04-06-WvW-Log-Review Blis.md",
     "2024-04-07-20240406-225435_wvw Blis.md",
@@ -187,7 +175,6 @@
     "2024-03-31-2024-03-31-WvW-Log-Review.md",
     "2024-03-31-20240330-204445_wvw.md",
     "2024-03-31-20240330-210250_wvw.md",
-    "2024-03-30-2024-03-30-WvW-Log-Review.md",
     "template"
   ]
 }
