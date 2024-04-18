@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9068df496b76f1",
+        "id": "aa8eaa843e1ce682",
         "type": "tabs",
         "children": [
           {
-            "id": "fc5f921dc571c089",
+            "id": "c0f55ecffc7186e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-14-2024-04-14-WvW-Log-Review TM.md",
+                "file": "2024-04-17-2024-04-17-WvW-Log-Review TM.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d960ee6663ed96d",
+            "id": "0b13fb5e0ddc5ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-14-2024-04-14-WvW-Log-Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "378c1cef87635f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-15-2024-04-15-WvW-Log-Review.md",
+                "file": "2024-04-17-20240417-194749_wvw.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-15-2024-04-15-WvW-Log-Review.md",
+                "file": "2024-04-17-20240417-194749_wvw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-15-2024-04-15-WvW-Log-Review.md",
+                "file": "2024-04-17-20240417-194749_wvw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-15-2024-04-15-WvW-Log-Review.md"
+                "file": "2024-04-17-20240417-194749_wvw.md"
               }
             }
           }
@@ -172,10 +160,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "378c1cef87635f00",
+  "active": "0b13fb5e0ddc5ed8",
   "lastOpenFiles": [
-    "2024-04-14-2024-04-14-WvW-Log-Review.md",
+    "2024-04-17-2024-04-17-WvW-Log-Review TM.md",
+    "2024-04-17-20240417-194749_wvw.md",
     "2024-04-15-2024-04-15-WvW-Log-Review.md",
+    "2024-04-14-2024-04-14-WvW-Log-Review.md",
     "2024-04-14-2024-04-14-WvW-Log-Review TM.md",
     "2024-04-13-20240413-204030_wvw.md",
     "2024-04-13-2024-04-13-WvW-Log-Review.md",
@@ -198,8 +188,6 @@
     "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
     "2024-04-01-20240401-203316_wvw.md",
     "2024-04-01-2024-04-01-WvW-Log-Review.md",
-    "2024-04-01-2024-04-01-WvW-Log-Review TM.md",
-    "2024-03-31-20240331-204801_wvw.md",
     "template"
   ]
 }
