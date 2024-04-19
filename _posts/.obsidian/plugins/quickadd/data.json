@@ -5,10 +5,10 @@
       "name": "Add new wvw summary logs",
       "type": "Template",
       "command": true,
-      "templatePath": "template/{{date}}-{{date}}-WvW-Log-Review.md",
+      "templatePath": "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{date}}-{{date}}-WvW-Log-Review"
+        "format": "{{date}}-{{date}}-WvW-Log-Review-{{VALUE:GuildName}}"
       },
       "folder": {
         "enabled": false,

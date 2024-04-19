@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0f55ecffc7186e4",
+            "id": "086c17fea6543067",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-17-2024-04-17-WvW-Log-Review TM.md",
+                "file": "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0b13fb5e0ddc5ed8",
+            "id": "f58a3f4bdffc2cc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-17-20240417-194749_wvw.md",
+                "file": "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-17-20240417-194749_wvw.md",
+                "file": "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-17-20240417-194749_wvw.md",
+                "file": "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-17-20240417-194749_wvw.md"
+                "file": "2024-04-18-2024-04-18-WvW-Log-Review-TM.md"
               }
             }
           }
@@ -160,13 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b13fb5e0ddc5ed8",
+  "active": "f58a3f4bdffc2cc8",
   "lastOpenFiles": [
-    "2024-04-17-2024-04-17-WvW-Log-Review TM.md",
+    "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
+    "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
+    "template/{{date}}-Single fight log.md",
+    "2024-04-18-2024-04-18-WvW-Log-Review-TM1.md",
+    "2024-04-18-2024-04-18-WvW-Log-Review-MYST.md",
     "2024-04-17-20240417-194749_wvw.md",
+    "2024-04-14-2024-04-14-WvW-Log-Review TM.md",
+    "2024-04-17-2024-04-17-WvW-Log-Review TM.md",
+    "template/{{date}}-new notes pin or no pin.md",
     "2024-04-15-2024-04-15-WvW-Log-Review.md",
     "2024-04-14-2024-04-14-WvW-Log-Review.md",
-    "2024-04-14-2024-04-14-WvW-Log-Review TM.md",
     "2024-04-13-20240413-204030_wvw.md",
     "2024-04-13-2024-04-13-WvW-Log-Review.md",
     "2024-04-11-20240411-200828_wvw.md",
@@ -182,12 +188,6 @@
     "2024-04-02-20240402-193834_wvw.md",
     "2024-04-02-20240402-212305_wvw.md",
     "2024-04-02-20240402-210157_wvw.md",
-    "2024-04-02-2024-04-02-WvW-Log-Review TM.md",
-    "2024-04-02-2024-04-02-WvW-Log-Review.md",
-    "2024-04-01-20240401-195056_wvw.md",
-    "2024-04-01-20240401-214411_wvw Alac Heal Mech.md",
-    "2024-04-01-20240401-203316_wvw.md",
-    "2024-04-01-2024-04-01-WvW-Log-Review.md",
     "template"
   ]
 }
