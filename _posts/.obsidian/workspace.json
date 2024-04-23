@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8eaa843e1ce682",
+        "id": "4744ae718e9f4cd0",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc88f74def9ac41",
+            "id": "cab6824a28ac6596",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-04-19-2024-04-19-WvW-Log-Review-TM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea966d14e95528db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-20-2024-04-20-WvW-Log-Review-MYST.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf8cadc533b8ee7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-21-2024-04-21-WvW-Log-Review-TM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7661856dd9638ff4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md",
+                "file": "2024-04-22-2024-04-22-WvW-Log-Review-TM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md",
+                "file": "2024-04-22-2024-04-22-WvW-Log-Review-TM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md",
+                "file": "2024-04-22-2024-04-22-WvW-Log-Review-TM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md"
+                "file": "2024-04-22-2024-04-22-WvW-Log-Review-TM.md"
               }
             }
           }
@@ -184,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7661856dd9638ff4",
+  "active": "cab6824a28ac6596",
   "lastOpenFiles": [
-    "2024-04-21-2024-04-21-WvW-Log-Review-TM.md",
+    "2024-04-22-2024-04-22-WvW-Log-Review-TM.md",
     "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md",
+    "2024-04-21-2024-04-21-WvW-Log-Review-TM.md",
     "2024-04-20-2024-04-20-WvW-Log-Review-MYST.md",
     "2024-04-19-2024-04-19-WvW-Log-Review-TM.md",
     "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
@@ -211,7 +175,6 @@
     "2024-04-07-20240406-223142_wvw Blis.md",
     "2024-04-06-2024-04-06-WvW-Log-Review.md",
     "2024-04-06-20240406-001548_wvw.md",
-    "2024-04-05-2024-04-05-WvW-Log-Review with TM.md",
     "template"
   ]
 }
