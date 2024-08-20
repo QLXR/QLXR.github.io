@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce2d8ead85530d5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 5,
         "stacked": true
       }
     ],
@@ -135,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md",
+                "file": "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md",
+                "file": "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md"
+                "file": "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md"
               }
             }
           }
@@ -196,10 +208,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ddc71760243a123",
+  "active": "ce2d8ead85530d5a",
   "lastOpenFiles": [
-    "2024-08-06-2024-08-06-WvW-Log-Review-MYST.md",
     "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md",
+    "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
+    "2024-08-06-2024-08-06-WvW-Log-Review-MYST.md",
     "2024-08-04-2024-08-04-WvW-Log-Review-MYST.md",
     "2024-08-04-20240803-214624_wvw.md",
     "2024-08-03-2024-08-03-WvW-Log-Review-MYST.md",
@@ -223,7 +236,6 @@
     "2024-04-18-2024-04-18-WvW-Log-Review-TM1.md",
     "2024-04-18-2024-04-18-WvW-Log-Review-MYST.md",
     "2024-04-17-20240417-194749_wvw.md",
-    "2024-04-14-2024-04-14-WvW-Log-Review TM.md",
     "template"
   ]
 }
