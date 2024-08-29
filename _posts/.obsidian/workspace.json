@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f89d213afe3a80e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md",
+                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md",
+                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md"
+                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e598369b1d1c437",
+  "active": "8f89d213afe3a80e",
   "lastOpenFiles": [
-    "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
     "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md",
+    "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+    "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
     "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md",
     "2024-08-06-2024-08-06-WvW-Log-Review-MYST.md",
     "2024-08-04-2024-08-04-WvW-Log-Review-MYST.md",
@@ -174,7 +188,6 @@
     "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
     "template/{{date}}-Single fight log.md",
     "2024-04-18-2024-04-18-WvW-Log-Review-TM1.md",
-    "2024-04-18-2024-04-18-WvW-Log-Review-MYST.md",
     "template"
   ]
 }
