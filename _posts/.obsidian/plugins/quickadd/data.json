@@ -8,7 +8,7 @@
       "templatePath": "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{date}}-{{date}}-WvW-Log-Review-{{VALUE:GuildName}}"
+        "format": "{{date}}-{{date}}-WvW-Log-Review-{{VALUE:GuildName}}-{{VALUE:Time}}"
       },
       "folder": {
         "enabled": false,

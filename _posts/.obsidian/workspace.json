@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "bdaff05db1a51626",
+        "id": "19557b09096d50cc",
         "type": "tabs",
         "children": [
           {
-            "id": "7e598369b1d1c437",
+            "id": "37ded38c781867a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+                "file": "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f89d213afe3a80e",
+            "id": "0b6113863163274a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+                "file": "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55f405c8c4a83402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-08-31-2024-08-31-WvW-Log-Review-MYST-2159.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+                "file": "2024-08-31-2024-08-31-WvW-Log-Review-MYST-2159.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+                "file": "2024-08-31-2024-08-31-WvW-Log-Review-MYST-2159.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md"
+                "file": "2024-08-31-2024-08-31-WvW-Log-Review-MYST-2159.md"
               }
             }
           }
@@ -159,10 +172,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e598369b1d1c437",
+  "active": "55f405c8c4a83402",
   "lastOpenFiles": [
-    "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md",
+    "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
+    "2024-08-31-2024-08-31-WvW-Log-Review-MYST-2159.md",
+    "template/{{date}}-Single fight log.md",
+    "2024-08-29-2024-08-29-WvW-Log-Review-MYST-2201.md",
     "2024-08-28-2024-08-28-WvW-Log-Review-MYST.md",
+    "2024-08-29-2024-08-29-WvW-Log-Review-TM.md",
+    "2024-08-29-2024-08-29-WvW-Log-Review-MYST.md",
+    "2024-08-27-2024-08-27-WvW-Log-Review-MYST.md",
     "2024-08-19-2024-08-19-WvW-Log-Review-MYST.md",
     "2024-08-17-2024-08-17-WvW-Log-Review-MYST.md",
     "2024-08-06-2024-08-06-WvW-Log-Review-MYST.md",
@@ -181,12 +200,6 @@
     "2024-04-22-2024-04-22-WvW-Log-Review-TM.md",
     "2024-04-21-2024-04-21-WvW-Log-Review-MYST.md",
     "2024-04-21-2024-04-21-WvW-Log-Review-TM.md",
-    "2024-04-20-2024-04-20-WvW-Log-Review-MYST.md",
-    "2024-04-19-2024-04-19-WvW-Log-Review-TM.md",
-    "2024-04-18-2024-04-18-WvW-Log-Review-TM.md",
-    "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
-    "template/{{date}}-Single fight log.md",
-    "2024-04-18-2024-04-18-WvW-Log-Review-TM1.md",
     "template"
   ]
 }
