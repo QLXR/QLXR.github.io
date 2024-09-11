@@ -2,11 +2,11 @@
 filename: "{{date}}-{{date}}-WvW-Log-Review-{{VALUE:GuildName}}"
 title: "{{date}}-WvW-Log-Review-{{VALUE:GuildName}}"
 date: "{{date}} {{time}} America/Detroit"
+description: 
 categories:
   - WvW logs
 tags:
   - WvW
-  - {{VALUE:GuildName}}
 ---
  <a href="/assets/wvwlogs/reports{{date:YYYYMMDD}}_{{VALUE:GuildName}}.html#{{date:YYYYMMDD}}{{VALUE:Time}}-WvW-Log-Review" target="_blank">Open logs in another window</a>
 
