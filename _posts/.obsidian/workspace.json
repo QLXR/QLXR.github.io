@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac183affd27e294e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -111,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-11-2024-09-11-WvW-Log-Review-MYST-2154.md",
+                "file": "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-11-2024-09-11-WvW-Log-Review-MYST-2154.md",
+                "file": "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-11-2024-09-11-WvW-Log-Review-MYST-2154.md"
+                "file": "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md"
               }
             }
           }
@@ -171,10 +183,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4ecb72f501fa6aa",
+  "active": "ac183affd27e294e",
   "lastOpenFiles": [
-    "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
     "2024-09-11-2024-09-11-WvW-Log-Review-MYST-2154.md",
+    "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md",
+    "template/{{date}}-{{date}}-WvW-Log-Review-Guildname.md",
     "template/{{date}}-new notes pin or no pin.md",
     "template/{{date}}-Single fight log.md",
     "2024-09-10-2024-09-10-WvW-Log-Review-MYST-2157.md",
@@ -200,7 +213,6 @@
     "Scripts/z.js",
     "Scripts",
     "2024-09-10-2024-09-10-WvW-Log-Review-MYST-4404-.md",
-    "aaa.md",
     "template"
   ]
 }
