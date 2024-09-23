@@ -20,67 +20,19 @@
             }
           },
           {
-            "id": "7f092edf53c7615f",
+            "id": "99410a384fdb46e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-16-2024-09-16-WvW-Log-Review-MYST-2207.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "326056225e54fbe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-18-2024-09-18-WvW-Log-Review-MYST-2203.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79bd236efc172304",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-19-2024-09-19-WvW-Log-Review-MYST-2202.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "716846a38bc2f933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbbb81010ccfc811",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-17-2024-09-17-WvW-Log-Review-MYST-2203.md",
+                "file": "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -159,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md",
+                "file": "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md",
+                "file": "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md"
+                "file": "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md"
               }
             }
           }
@@ -219,14 +171,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "716846a38bc2f933",
+  "active": "99410a384fdb46e2",
   "lastOpenFiles": [
-    "2024-09-19-2024-09-19-WvW-Log-Review-MYST-2202.md",
+    "2024-09-14-2024-09-14-WvW-Log-Review-MYST-2151.md",
+    "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
     "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md",
+    "2024-09-19-2024-09-19-WvW-Log-Review-MYST-2202.md",
     "2024-09-18-2024-09-18-WvW-Log-Review-MYST-2203.md",
     "2024-09-16-2024-09-16-WvW-Log-Review-MYST-2207.md",
     "2024-09-17-2024-09-17-WvW-Log-Review-MYST-2203.md",
-    "2024-09-14-2024-09-14-WvW-Log-Review-MYST-2151.md",
     "2024-09-12-2024-09-12-WvW-Log-Review-MYST-2204.md",
     "Untitled.md",
     "2024-09-11-2024-09-11-WvW-Log-Review-MYST-2154.md",
@@ -246,7 +199,6 @@
     "2024-04-06-2024-04-06-WvW-Log-Review.md",
     "2024-04-06-2024-04-06-WvW-Log-Review Blis.md",
     "2024-04-07-2024-04-07-WvW-Log-Review.md",
-    "2024-04-06-20240406-001548_wvw.md",
     "Scripts/z.js",
     "Scripts",
     "template"
