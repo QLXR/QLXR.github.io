@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d175cc1098329563",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-24-20240923-215902_wvw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61ff8c168d4e8c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-24-2024-09-24-WvW-Log-Review-MYST-2152.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1,
+        "currentTab": 3,
         "stacked": true
       }
     ],
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-23-2024-09-23-WvW-Log-Review-MYST-2201.md",
+                "file": "2024-09-24-2024-09-24-WvW-Log-Review-MYST-2152.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-23-2024-09-23-WvW-Log-Review-MYST-2201.md",
+                "file": "2024-09-24-2024-09-24-WvW-Log-Review-MYST-2152.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-23-2024-09-23-WvW-Log-Review-MYST-2201.md"
+                "file": "2024-09-24-2024-09-24-WvW-Log-Review-MYST-2152.md"
               }
             }
           }
@@ -171,10 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66b3af30415c2ae6",
+  "active": "61ff8c168d4e8c27",
   "lastOpenFiles": [
-    "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
+    "2024-09-24-20240923-215902_wvw.md",
+    "2024-09-24-2024-09-24-WvW-Log-Review-MYST-2152.md",
     "2024-09-23-2024-09-23-WvW-Log-Review-MYST-2201.md",
+    "2024-09-22-2024-09-22-WvW-Log-Review-MYST-2215.md",
     "2024-09-21-2024-09-21-WvW-Log-Review-MYST-2200.md",
     "2024-09-19-2024-09-19-WvW-Log-Review-MYST-2202.md",
     "2024-09-14-2024-09-14-WvW-Log-Review-MYST-2151.md",
@@ -197,8 +223,6 @@
     "2024-04-07-20240406-223142_wvw Blis.md",
     "2024-04-07-20240406-225435_wvw Blis.md",
     "2024-04-11-2024-04-11-WvW-Log-Review TM.md",
-    "2024-04-06-2024-04-06-WvW-Log-Review.md",
-    "2024-04-06-2024-04-06-WvW-Log-Review Blis.md",
     "Scripts/z.js",
     "Scripts",
     "template"
